@@ -2,16 +2,6 @@
 
 ### I’m an AI Engineer and Data Scientist 
 
-- 🌱 I’m currently learning **Software Design and Generative AI**
-
-- 🤝 I'm looking to **collaborate within the open-source community** as a way to give back for the vast and invaluable FOSS projects found throughout the internet
-
-- 💬 Ask me about **anything related to AI engineering, data science, or software development**
-
-- 👟 Fun fact: **I run marathons**
-
-<br>
-
 ### Main Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
